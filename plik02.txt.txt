@@ -5,4 +5,3 @@ hotFix-001
 Dodano asystenta pomocy
 uproszczenie interfejsu graficznego
 >>>>>>> easierApp
-Zmiana12
