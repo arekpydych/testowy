@@ -1,13 +1,7 @@
-Zmiana01 - Zmiana06
-Zmiana02 Zmiania02a
-Zmiana03
-Zmiana04
-Zmiana05
-Zmiana07c
+Zmian07b
 <<<<<<< HEAD
 hotFix-001
 =======
 Dodano asystenta pomocy
 uproszczenie interfejsu graficznego
 >>>>>>> easierApp
-Zmiana08
